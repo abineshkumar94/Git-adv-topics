@@ -20,3 +20,16 @@ body {
   width: 20%;
   height: 7vh;
 }
+
+.btn2 {
+  position: relative;
+  border-radius: 20px;
+  align-items: center;
+  margin-top: 3%;
+  border: none;
+  margin-left: 40%;
+  background-color: greenyellow;
+  color:#ffffff;
+  width: 20%;
+  height: 7vh;
+}
